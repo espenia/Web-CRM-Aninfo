@@ -1,0 +1,39 @@
+.task-title-style {
+  text-align: center;
+  border-radius: 15px;
+  background-color: #bbc8de;
+  color: #122620;
+}
+
+.create-button-task {
+  background-color: #0c4160;
+  color: white;
+}
+
+.create-button-task:hover {
+  background-color: #071330;
+  color: white;
+}
+
+.body {
+  background-color: #ffffff;
+}
+
+.cancel-task-button {
+  margin-left: 50px;
+  background-color: #2e8bc0;
+  color: white;
+}
+
+.cancel-task-button:hover {
+  background-color: #145da0;
+  color: white;
+}
+.icon-center {
+  padding-top: 3%;
+  vertical-align: middle;
+}
+.p-corrido {
+  padding-left: 10px;
+  color: red;
+}

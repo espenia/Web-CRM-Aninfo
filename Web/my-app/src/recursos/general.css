@@ -1,0 +1,12 @@
+ul li a{
+    color: gray;
+}
+
+.table-dark{
+    background-color: #045174;
+}
+
+.logged-in {
+    margin-left: 5px;
+    color: limegreen;
+}

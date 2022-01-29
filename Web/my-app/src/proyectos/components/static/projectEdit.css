@@ -1,0 +1,36 @@
+.form-control {
+  border-radius: 15px;
+  /*background-color: #C3CEDA;
+    color: #071330;*/
+}
+/*
+.form-control:hover {
+    background-color: #C3CEDA;
+    color: #071330;
+}*/
+
+.title-style {
+  text-align: center;
+  border-radius: 15px;
+  background-color: #bbc8de;
+  color: #122620;
+}
+
+.body {
+  /*background-color:#C3E0E5;*/
+}
+
+.create-button {
+  margin-right: 50px;
+  background-color: #0c4160;
+  color: white;
+}
+
+.create-button:hover {
+  background-color: #071330;
+  color: white;
+}
+.div-central {
+  justify-content: center;
+  align-items: center;
+}

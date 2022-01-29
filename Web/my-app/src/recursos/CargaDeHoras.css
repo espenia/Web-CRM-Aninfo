@@ -1,0 +1,50 @@
+#container_filtros{
+    text-align: center;
+    margin: auto 10px;
+    border: 2px solid #001F3D;
+    border-radius: 5px;
+    background-color: #045174;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+#container_filtros h3{
+    color:white;
+}
+
+#dropdown_fechas{
+    background-color: #001F3D;
+    border-color: #001F3D;
+}
+
+input{
+    margin-left:20%;
+    height:38px;
+    padding-right:2px;
+}
+
+.boton_oscuro{
+    background-color: #001F3D;
+    border-color: #001F3D;
+}
+
+.divider{
+    width:50px;
+    height:auto;
+    display:inline-block;
+}
+
+
+#filtro_texto{
+    overflow:hidden;
+    color: white;
+    font-size:1.4rem;
+}
+
+#filtro_texto input{
+    margin-left: 10px;
+}
+
+#container_carga{
+    text-align:center;
+}

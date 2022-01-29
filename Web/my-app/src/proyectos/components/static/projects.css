@@ -1,0 +1,53 @@
+.center-screen {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+
+  padding-top: 10%;
+}
+
+/*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+*/
+
+.form-control {
+  margin-left: 10px;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+.form-control-underlined {
+  border-width: 0;
+  border-bottom-width: 1px;
+  border-radius: 0;
+  padding-left: 0;
+}
+
+.form-control::placeholder {
+  font-size: 0.95rem;
+  color: #aaa;
+  font-style: italic;
+}
+
+tbody {
+  margin-top: 30px;
+}
+
+thead {
+  background-color: rgb(219, 212, 212);
+  position: auto;
+  top: 1;
+  z-index: 1;
+}
+.center_div {
+  margin: 0 auto;
+  width: 60%;
+}

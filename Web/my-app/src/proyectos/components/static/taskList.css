@@ -1,0 +1,45 @@
+.add-task-button {
+  color: #d4f1f4;
+  background-color: #214ed3;
+  margin-right: 40px;
+}
+
+.add-task-button:hover {
+  color: white;
+  background-color: #00478f;
+}
+
+.delete-task-button {
+  margin-left: 20px;
+  background-color: #e87a00;
+  color: white;
+}
+
+.delete-task-button:hover {
+  background-color: #ff5d00;
+  color: #001f3d;
+}
+
+.button {
+  margin-left: 20px;
+}
+
+.tarea {
+  margin-left: 10px;
+}
+.contenedor-lista {
+  margin: 6 auto;
+}
+.centrada-borde {
+  width: 98%;
+  margin: auto;
+}
+.text-center {
+  text-align: center;
+}
+/*
+thead {
+  background-color: #045174;
+  color: #ffffff;
+}
+*/
